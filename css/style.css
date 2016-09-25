@@ -1,0 +1,26 @@
+.boxes {
+width: 450px;
+height: 450px;
+overflow: hidden;
+position: relative;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+margin: auto;
+}
+
+.box {
+width: 150px;
+height: 150px;
+border: 1px solid black;
+float: left;
+box-sizing: border-box;
+position: relative;
+background:white;
+   outline: 1px solid;
+}
+
+
+
+h2{text-align:center;}
